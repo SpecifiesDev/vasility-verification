@@ -1,0 +1,15 @@
+{
+    "bot": {
+        "prefix": "?",
+        "token": "",
+        "color": "#36b576",
+        "author": "Austin#9949",
+        "activity": "Linking vasility players together."
+    },
+    "sql": {
+        "host": "localhost",
+        "user": "development",
+        "password": "",
+        "database": "lilac"
+    }
+}
